@@ -1,6 +1,7 @@
 # python-practice
 --------------------------------------------------------------------------
-python basicc practice source freecodecamp\
+python basicc practice\
+source : freecodecamp\
 Syntax
 --------------------------------------------------------------------------
 variable = value\
