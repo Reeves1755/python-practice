@@ -43,5 +43,14 @@ In Python the scope of a variable determines where that variable can be accessed
 call(invoke)function 使用語法 function_name()
 functions can be declared with parameters to introduce versatility and customization\
 can be declared with different number of parameters\
-ex: def function_name(param_1, param_2):
-
+ex: def function_name(param_1, param_2):\
+程式可讀性很重要\
+return value 會回傳value的值\
+function參數可以先預有預設值 當那個參數沒有被指定時即為預設值\
+,isalpha() 如果全部字元為string or letters會回傳True\
+ex: 'okay'.isalpha() --> True\
+not operator : True --> False 也可相反\
+pass :對程式碼沒有影響  但可以避免程式碼在不完整的時候發生錯誤\
+可以用+來串接兩個字串 ex: 'hello' + 'okay' --> 'hello okay'\
+In Python, there's a way to easily format strings. f-strings enable you to interpolate values in your strings\
+For example, you can get the same result of 'Encrypted text: ' + text with f'Encrypted text: {text}'
