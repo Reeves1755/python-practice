@@ -32,4 +32,16 @@ Comparison operators 回傳布林值True or False:
 6. Less than or equal to : <=
 
 條件語句:\
-if x != 0: 換行縮排加code
+if x != 0: 換行縮排加code\
+modulo operator % ex: 5 % 2 = 1 取餘數\
+定義函數\
+def function_name():\
+
+In Python the scope of a variable determines where that variable can be accessed:\
+變數定義在function外面稱為global scope可以被任意存取\
+定義在function裡面稱為local scope不能被外面存取\
+call(invoke)function 使用語法 function_name()
+functions can be declared with parameters to introduce versatility and customization\
+can be declared with different number of parameters\
+ex: def function_name(param_1, param_2):
+
