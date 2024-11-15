@@ -1,4 +1,3 @@
 # python-practice
-syntax
-
+syntax\
 algorithm
