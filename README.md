@@ -1,4 +1,4 @@
-# python-practice
+# python-practice-note
 --------------------------------------------------------------------------
 python basicc practice\
 source : freecodecamp\
