@@ -3,7 +3,7 @@ Python note
 created by Reeves  
 source : freecodecamp
 ---
-從最簡單的部分紀錄，有點潦草，還請見諒!
+從最簡單的部分紀錄，有點潦草，還請見諒!  
 variable = value\
 string 用單引號或雙引號框起來\
 print() output your code\
