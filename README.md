@@ -1,3 +1,3 @@
 # python-practice
-syntax
+syntax\n
 algorithm
