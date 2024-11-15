@@ -1,1 +1,3 @@
 # python-practice
+syntax
+algorithm
